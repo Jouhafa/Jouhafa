@@ -14,8 +14,8 @@
 <p>
 
 - 👀 I’m interested in the field of data science 
-- 🌱 I’m currently learning about Transformers
-- 💞️ I’m looking to collaborate on applications of NN models in the different fields 
+- 🌱 I’m currently learning about GenAI
+- 💞️ I’m looking to collaborate on applications of Responsible AI in different fields
 
 <p align='left'>
    📫 How to reach me : jouhafazakaria@gmail.com
